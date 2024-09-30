@@ -2,6 +2,9 @@
 Parcial #3 Aplicaciones Moviles
 # Piedra, Papel o Tijeras - App Nativa de Kotlin
 
+#  Enlace Prototipo Figma
+https://www.figma.com/design/tmIOAMgslGrtLUD7RTU0pB/Aplicacion-Movil?node-id=0-1&t=gqIalPi3p9a1db3y-1
+
 ## Descripción
 Piedra, Papel o Tijeras es una aplicación móvil nativa desarrollada en Kotlin que te permite disfrutar del clásico juego en tu dispositivo Android. Juega contra la máquina o desafía a otros jugadores en tiempo real a través de Firebase.
 
