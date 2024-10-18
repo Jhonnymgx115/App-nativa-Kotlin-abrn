@@ -46,4 +46,6 @@ Si tienes problemas o sugerencias, por favor contacta a nuestro equipo de soport
 ## Actualizaciones
 Mantén tu aplicación actualizada para disfrutar de las últimas características y mejoras de rendimiento. Las actualizaciones se publican regularmente en la Google Play Store.
 
-¡Diviértete jugando Piedra, Papel o Tijeras!
+
+![WhatsApp Image 2024-10-17 at 10 03 00 PM](https://github.com/user-attachments/assets/f4acb7e3-422e-4723-8ebd-18cb56c88d55)
+![WhatsApp Image 2024-10-17 at 10 03 00 PM](https://github.com/user-attachments/assets/dc17b0b3-bce5-45e7-bf96-2a04bf14fd69)
